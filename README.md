@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/Novo-Demo/caff92e0-faae-4ac2-bb24-24721d4ff354/1d4f8874-83b8-462c-8cad-ff4d807773ad/_apis/work/boardbadge/7cd3ce24-6695-46d8-bf12-ae999ad8f447)](https://dev.azure.com/Novo-Demo/caff92e0-faae-4ac2-bb24-24721d4ff354/_boards/board/t/1d4f8874-83b8-462c-8cad-ff4d807773ad/Microsoft.RequirementCategory)
 # Auth samples for Azure DevOps Services
 
 ![status](https://dev.azure.com/mseng/_apis/public/build/definitions/b924d696-3eae-4116-8443-9a18392d8544/5326/badge)
